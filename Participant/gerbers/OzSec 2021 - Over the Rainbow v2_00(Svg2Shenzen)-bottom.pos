@@ -1,0 +1,9 @@
+### Module positions - created on 09/04/21 12:15:26 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val           Package                                              PosX       PosY       Rot  Side
+BT1       Battery_Cell  BatteryHolder_MPD_BC2003_1x2032                  136.7257   -83.0478    0.0000  bottom
+D1        LED           LED_Osram_Lx_P47F_D2mm_ReverseMount_MaskNoHole   177.4500  -109.2000    0.0000  bottom
+SW1       SW_DPDT_x2    SW_SPDT_PCM12                                    182.4126   -82.5322  270.0000  bottom
+## End
